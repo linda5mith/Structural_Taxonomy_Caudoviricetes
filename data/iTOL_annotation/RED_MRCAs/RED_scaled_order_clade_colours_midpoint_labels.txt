@@ -1,0 +1,126 @@
+DATASET_TEXT
+    SEPARATOR COMMA
+
+    #SHOW_LEGEND,1
+    LEGEND_TITLE,Order
+
+    DATASET_LABEL,Order labels
+    COLOR,#8174A0
+    MARGIN,0
+    SHOW_INTERNAL,0
+    ALL_LABELS_ROTATION,0
+    LABELS_BELOW,1
+    VERTICAL_SHIFT,0
+    STRAIGHT_LABELS,0
+    ALIGN_TO_TREE,0
+    SIZE_FACTOR,1
+    EXTERNAL_LABEL_SHIFT,0
+
+    DATA
+NC_020845,Pantevenvirales,-1,#038287,bold,17,0
+NC_047955,Autographivirales,-1,#5e3a80,bold,17,0
+NC_055888,Crassvirales,-1,#05aaeb,bold,17,0
+NC_054422,Magrovirales_1,-1,#e8fd70,bold,17,0
+NC_062760,Thumleimavirales_1,-1,#9e90af,bold,17,0
+OP880252,Nakonvirales,-1,#802f59,bold,17,0
+NC_021330,Thumleimavirales_2,-1,#9e90af,bold,17,0
+NC_008695,Kirjokansivirales_1,-1,#bf03b8,bold,17,0
+NC_062739,Kirjokansivirales_2,-1,#bf03b8,bold,17,0
+ON649702,Magrovirales_2,-1,#386e64,bold,7,0
+NC_021471,Juravirales_1,-1,#d6a3b5,bold,7,0
+NC_062761,Adrikavirales,-1,#4687ff,bold,7,0
+BK063679,Juravirales_2,-1,#d6a3b5,bold,7,0
+NC_054955,Methanobavirales_1,-1,#59578a,bold,17,0
+BK068243,Methanobavirales_2,-1,#59578a,bold,17,0
+NC_074641,Methanobavirales_3,-1,#59578a,bold,7,0
+NC_048669,Verdandivirales_1,-1,#b8496b,bold,17,0
+NC_023699,Salasmavirales_1,-1,#fb7cff,bold,17,0
+NC_071078,Aliceevansvirales,-1,#4f6993,bold,17,0
+NC_015273,Peduovirales,-1,#773618,bold,17,0
+NC_047994,Undefined_1,-1,#a13b72,bold,17,0
+NC_030920,Undefined_2,-1,#0ce8a1,bold,17,0
+NC_054983,Pachyvirales_1,-1,#f98e8a,bold,17,0
+NC_021782,Undefined_3,-1,#a1c6ff,bold,17,0
+NC_053240,Drexlervirales_1,-1,#464800,bold,17,0
+NC_071021,Undefined_4,-1,#60345d,bold,17,0
+NC_051614,Undefined_5,-1,#e4727e,bold,17,0
+NC_023550,Undefined_6,-1,#ff4600,bold,17,0
+NC_070799,Dunevirales_1,-1,#c49e72,bold,17,0
+NC_014461,Saparovirales_1,-1,#4fb5af,bold,17,0
+NC_055014,Undefined_7,-1,#57502a,bold,17,0
+NC_048715,Undefined_8,-1,#cac300,bold,17,0
+NC_041901,Undefined_9,-1,#018700,bold,17,0
+NC_021315,Undefined_10,-1,#eb0077,bold,17,0
+NC_042018,Undefined_11,-1,#c14100,bold,17,0
+NC_041900,Undefined_12,-1,#6db3ff,bold,17,0
+NC_019709,Undefined_13,-1,#bde6bf,bold,17,0
+NC_049857,Undefined_14,-1,#e2412f,bold,17,0
+NC_071035,Undefined_15,-1,#004b33,bold,17,0
+NC_019442,Undefined_16,-1,#89003d,bold,17,0
+NC_070781,Stanwilliamsvirales,-1,#00749c,bold,17,0
+NC_030908,Undefined_17,-1,#fd5269,bold,17,0
+NC_055820,Zierdtvirales,-1,#b8005b,bold,17,0
+NC_047991,Pungovirales,-1,#ffa52f,bold,17,0
+NC_048826,Undefined_18,-1,#b8b68a,bold,17,0
+NC_054964,Undefined_19,-1,#a350a8,bold,17,0
+NC_070769,Undefined_20,-1,#79953b,bold,17,0
+NC_006557,Undefined_21,-1,#799eaf,bold,17,0
+NC_049927,Undefined_22,-1,#ff1c44,bold,17,0
+NC_048642,Undefined_23,-1,#03c600,bold,17,0
+NC_070897,Undefined_24,-1,#6ecfa7,bold,17,0
+NC_002371,Undefined_25,-1,#e4643b,bold,17,0
+NC_048836,Undefined_26,-1,#ff2fa1,bold,17,0
+NC_070838,Undefined_27,-1,#a57bb8,bold,17,0
+NC_048777,Undefined_28,-1,#ba03fd,bold,17,0
+NC_041895,Undefined_29,-1,#8c5926,bold,17,0
+NC_028667,Winovirales,-1,#ff5e93,bold,17,0
+NC_048698,Undefined_30,-1,#ff7266,bold,17,0
+NC_028958,Undefined_31,-1,#7cb8d3,bold,17,0
+NC_019411,Undefined_32,-1,#6d0097,bold,17,0
+NC_011645,Undefined_33,-1,#89647b,bold,17,0
+NC_062748,Assiduvirales,-1,#edb8b8,bold,17,0
+NC_049809,Undefined_34,-1,#5b7c80,bold,17,0
+NC_070953,Undefined_35,-1,#ae6dff,bold,17,0
+NC_055852,Pervagovirales,-1,#0000dd,bold,17,0
+NC_019486,Undefined_36,-1,#69b582,bold,17,0
+NC_008367,Saffermanvirales,-1,#75ae9a,bold,17,0
+NC_047974,Undefined_37,-1,#e2b391,bold,17,0
+NC_071003,Undefined_38,-1,#774669,bold,17,0
+NC_026597,Madisavirales,-1,#706b01,bold,17,0
+NC_047756,Undefined_39,-1,#9cf7db,bold,17,0
+NC_047958,Undefined_40,-1,#93d190,bold,17,0
+NC_055826,Naomvirales,-1,#ff7ed1,bold,17,0
+NC_048735,Undefined_41,-1,#5044a1,bold,17,0
+NC_048166,Undefined_42,-1,#9c3b4f,bold,17,0
+NC_027990,Undefined_43,-1,#afc6db,bold,7,0
+NC_048892,Undefined_44,-1,#380000,bold,7,0
+NC_019516,Undefined_45,-1,#95b577,bold,7,0
+NC_042342,Pachyvirales_2,-1,#9733df,bold,7,0
+NC_071016,Undefined_46,-1,#79463b,bold,7,0
+NC_047861,Undefined_47,-1,#9ae4ff,bold,7,0
+NC_047977,Undefined_48,-1,#7b525b,bold,7,0
+NC_041868,Undefined_49,-1,#f2ddff,bold,7,0
+NC_019515,Undefined_50,-1,#ffe8af,bold,7,0
+NC_049852,Drexlervirales_2,-1,#8c54b1,bold,17,0
+NC_023735,Undefined_51,-1,#3fa316,bold,17,0
+NC_049489,Undefined_52,-1,#9c3190,bold,17,0
+NC_070842,Undefined_53,-1,#c1a5c4,bold,17,0
+NC_024385,Undefined_54,-1,#5291cc,bold,17,0
+NC_041960,Undefined_55,-1,#708297,bold,17,0
+NC_021867,Dunevirales_2,-1,#2f5282,bold,17,0
+NC_074643,Verdandivirales_2,-1,#9e9e46,bold,7,0
+NC_049413,Undefined_56,-1,#da95ff,bold,17,0
+NC_019935,Undefined_57,-1,#c45646,bold,17,0
+NC_049966,Salasmavirales_2,-1,#60ff62,bold,17,0
+NC_055028,Undefined_58,-1,#ff9ab5,bold,17,0
+NC_070763,Undefined_59,-1,#00d6d4,bold,17,0
+NC_021792,Pachyvirales_3,-1,#799c7e,bold,17,0
+NC_055759,Undefined_60,-1,#bcb6ff,bold,17,0
+NC_023560,Undefined_61,-1,#7ecfdd,bold,7,0
+NC_019928,Undefined_62,-1,#f2dd00,bold,7,0
+NC_031129,Undefined_63,-1,#337c3d,bold,7,0
+NC_021788,Undefined_64,-1,#6b004f,bold,7,0
+NC_019541,Undefined_65,-1,#6b05e8,bold,7,0
+NC_008562,Undefined_66,-1,#80708e,bold,7,0
+NC_042348,Undefined_67,-1,#d60000,bold,7,0
+NC_021319,Saparovirales_2,-1,#97ff00,bold,7,0

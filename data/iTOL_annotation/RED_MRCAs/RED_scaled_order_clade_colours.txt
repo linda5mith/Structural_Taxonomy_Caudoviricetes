@@ -1,0 +1,219 @@
+TREE_COLORS
+    SEPARATOR SPACE
+    SHOW_LEGEND 1
+    LEGEND_TITLE Order Clade Colors
+    DATA
+# Pantevenvirales
+NC_000866|NC_041884 clade #038287 normal 1
+# Autographivirales
+NC_001271|NC_070978 clade #5e3a80 normal 1
+# Crassvirales
+NC_062769|NC_055878 clade #05aaeb normal 1
+# Undefined_1
+NC_028818|NC_041941 clade #e8fd70 normal 1
+# Thumleimavirales
+NC_004927|NC_062756 clade #9e90af normal 1
+# Nakonvirales
+NC_028805|OP413838 clade #802f59 normal 1
+# Thumleimavirales
+NC_021328|NC_055035 clade #9e90af normal 1
+# Kirjokansivirales
+NC_018271|NC_021537 clade #bf03b8 normal 1
+# Kirjokansivirales
+NC_021329|NC_062757 clade #bf03b8 normal 1
+# Magrovirales
+OR863078|ON649700 clade #386e64 normal 1
+# Juravirales
+ON649701|ON649699 clade #d6a3b5 normal 1
+# Adrikavirales
+NC_062761|PP497040 clade #4687ff normal 1
+# Juravirales
+BK063679|ON649698 clade #d6a3b5 normal 1
+# Methanobavirales
+BK063677|NC_048637 clade #59578a normal 1
+# Methanobavirales
+BK063678|NC_001902 clade #59578a normal 1
+# Methanobavirales
+NC_074641|PP537965 clade #59578a normal 1
+# Undefined_2
+NC_001335|NC_048854 clade #b8496b normal 1
+# Undefined_3
+NC_051739|NC_051721 clade #fb7cff normal 1
+# Undefined_4
+NC_000871|NC_028911 clade #4f6993 normal 1
+# Undefined_5
+NC_001317|NC_019519 clade #773618 normal 1
+# Undefined_6
+NC_015272|NC_025459 clade #a13b72 normal 1
+# Undefined_7
+NC_048752|NC_048087 clade #0ce8a1 normal 1
+# Undefined_8
+NC_002321|NC_055022 clade #f98e8a normal 1
+# Undefined_9
+NC_048003|NC_048125 clade #a1c6ff normal 1
+# Undefined_10
+NC_004684|NC_055804 clade #464800 normal 1
+# Undefined_11
+NC_041921|NC_048687 clade #60345d normal 1
+# Undefined_12
+NC_008202|NC_023744 clade #e4727e normal 1
+# Undefined_13
+NC_001423|NC_071002 clade #ff4600 normal 1
+# Undefined_14
+NC_031226|NC_048784 clade #c49e72 normal 1
+# Undefined_15
+NC_070948|NC_041987 clade #4fb5af normal 1
+# Undefined_16
+NC_001629|NC_028692 clade #57502a normal 1
+# Undefined_17
+NC_003291|NC_023595 clade #cac300 normal 1
+# Undefined_18
+NC_016166|NC_048830 clade #018700 normal 1
+# Undefined_19
+NC_005091|NC_052968 clade #eb0077 normal 1
+# Undefined_20
+NC_004629|NC_042098 clade #c14100 normal 1
+# Undefined_21
+NC_017981|NC_054953 clade #6db3ff normal 1
+# Undefined_22
+NC_001416|NC_019933 clade #bde6bf normal 1
+# Undefined_23
+NC_001884|NC_024355 clade #e2412f normal 1
+# Undefined_24
+NC_001978|NC_028952 clade #004b33 normal 1
+# Undefined_25
+NC_000924|NC_049941 clade #89003d normal 1
+# Undefined_26
+NC_070785|NC_042040 clade #00749c normal 1
+# Undefined_27
+NC_005178|NC_042082 clade #fd5269 normal 1
+# Undefined_28
+NC_055788|NC_042085 clade #b8005b normal 1
+# Undefined_29
+NC_030932|NC_048140 clade #ffa52f normal 1
+# Undefined_30
+NC_070760|NC_048824 clade #b8b68a normal 1
+# Undefined_31
+NC_070876|NC_070827 clade #a350a8 normal 1
+# Undefined_32
+NC_054989|NC_022972 clade #79953b normal 1
+# Undefined_33
+NC_003050|NC_048762 clade #799eaf normal 1
+# Undefined_34
+NC_013698|NC_047851 clade #ff1c44 normal 1
+# Undefined_35
+NC_007917|NC_041918 clade #03c600 normal 1
+# Undefined_36
+NC_021063|NC_070830 clade #6ecfa7 normal 1
+# Undefined_37
+NC_000935|NC_005344 clade #e4643b normal 1
+# Undefined_38
+NC_048843|NC_048831 clade #ff2fa1 normal 1
+# Undefined_39
+NC_047976|NC_047973 clade #a57bb8 normal 1
+# Undefined_40
+NC_005357|NC_041964 clade #ba03fd normal 1
+# Undefined_41
+NC_009603|NC_031076 clade #8c5926 normal 1
+# Undefined_42
+NC_000929|NC_062754 clade #ff5e93 normal 1
+# Undefined_43
+NC_048789|NC_027120 clade #ff7266 normal 1
+# Undefined_44
+NC_048022|NC_047792 clade #7cb8d3 normal 1
+# Undefined_45
+NC_019406|NC_041927 clade #6d0097 normal 1
+# Undefined_46
+NC_025424|NC_048701 clade #89647b normal 1
+# Undefined_47
+NC_062753|NC_062745 clade #edb8b8 normal 1
+# Undefined_48
+NC_013643|NC_049812 clade #5b7c80 normal 1
+# Undefined_49
+NC_070933|NC_048193 clade #ae6dff normal 1
+# Undefined_50
+NC_062744|NC_062743 clade #0000dd normal 1
+# Undefined_51
+NC_048848|NC_025420 clade #69b582 normal 1
+# Undefined_52
+NC_055711|NC_022751 clade #75ae9a normal 1
+# Undefined_53
+NC_031231|NC_054393 clade #e2b391 normal 1
+# Undefined_54
+NC_070773|NC_070949 clade #774669 normal 1
+# Undefined_55
+NC_048070|NC_021322 clade #706b01 normal 1
+# Undefined_56
+NC_047756|NC_055033 clade #9cf7db normal 1
+# Undefined_57
+NC_004775|NC_070881 clade #93d190 normal 1
+# Undefined_58
+NC_018088|NC_041880 clade #ff7ed1 normal 1
+# Undefined_59
+NC_041879|NC_009804 clade #5044a1 normal 1
+# Undefined_60
+NC_047757|NC_020842 clade #9c3b4f normal 1
+# Undefined_61
+NC_047983|NC_047909 clade #afc6db normal 1
+# Undefined_62
+NC_048892|NC_048678 clade #380000 normal 1
+# Undefined_63
+NC_048106|NC_055915 clade #95b577 normal 1
+# Undefined_64
+NC_006552|NC_062747 clade #9733df normal 1
+# Undefined_65
+NC_071016|NC_054961 clade #79463b normal 1
+# Undefined_66
+NC_047861|NC_019930 clade #9ae4ff normal 1
+# Undefined_67
+NC_047977|NC_009817 clade #7b525b normal 1
+# Undefined_68
+NC_041868|NC_020489 clade #f2ddff normal 1
+# Undefined_69
+NC_019515|NC_048650 clade #ffe8af normal 1
+# Undefined_70
+NC_054649|NC_029071 clade #8c54b1 normal 1
+# Undefined_71
+NC_041951|NC_031224 clade #3fa316 normal 1
+# Undefined_72
+NC_049465|NC_071014 clade #9c3190 normal 1
+# Undefined_73
+NC_022767|NC_022766 clade #c1a5c4 normal 1
+# Undefined_74
+NC_054988|NC_049805 clade #5291cc normal 1
+# Undefined_75
+NC_071013|NC_024392 clade #708297 normal 1
+# Undefined_76
+NC_062749|NC_048834 clade #2f5282 normal 1
+# Undefined_77
+NC_052964|NC_074645 clade #9e9e46 normal 1
+# Undefined_78
+NC_001835|NC_055050 clade #da95ff normal 1
+# Undefined_79
+NC_048796|NC_041902 clade #c45646 normal 1
+# Undefined_80
+NC_055905|NC_021336 clade #60ff62 normal 1
+# Undefined_81
+NC_028930|NC_055029 clade #ff9ab5 normal 1
+# Undefined_82
+NC_070761|NC_048176 clade #00d6d4 normal 1
+# Undefined_83
+NC_021789|NC_021803 clade #799c7e normal 1
+# Undefined_84
+NC_004685|NC_023712 clade #bcb6ff normal 1
+# Undefined_85
+NC_023559|NC_023571 clade #7ecfdd normal 1
+# Undefined_86
+NC_019512|NC_019931 clade #f2dd00 normal 1
+# Undefined_87
+NC_005856|NC_042128 clade #337c3d normal 1
+# Undefined_88
+NC_021788|NC_021798 clade #6b004f normal 1
+# Undefined_89
+NC_019541|NC_041866 clade #6b05e8 normal 1
+# Undefined_90
+NC_008562|NC_029002 clade #80708e normal 1
+# Undefined_91
+NC_042348|NC_042350 clade #d60000 normal 1
+# Undefined_92
+NC_021319|NC_021340 clade #97ff00 normal 1

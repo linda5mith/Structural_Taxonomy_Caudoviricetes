@@ -1,8 +1,8 @@
 # .gitignore
 /data/models/
-/data/foldseek_easy_cluster/
-/data/foldseek_easy_search/
-/data/phylorank/
-/data/iTOL_annotation/
-/data/classifier_performance/
-/data/plots/
+/data/naming_metadata/
+/data/inter_rank_relatedness.csv
+/data/4084_dice_cov5_c0.4_tm0.3_re1_e1e-2.phylip
+data/presence_absence_4083.csv
+data/embeddings_annotated_expanded.csv
+data/4083_%_shared_proteins.csv

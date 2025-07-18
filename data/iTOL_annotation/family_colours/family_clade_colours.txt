@@ -1,0 +1,97 @@
+TREE_COLORS
+SEPARATOR SPACE
+
+SHOW_LEGEND 1
+LEGEND_TITLE Family
+
+DATA
+# Autographiviridae
+NC_001271|NC_048036 clade #48762c normal 1
+# Straboviridae
+NC_000866|NC_041929 clade #6420AA normal 1
+# Drexlerviridae
+NC_005833|NC_054897.1 clade #83781b normal 1
+# Schitoviridae
+NC_008720|NC_048125 clade #5b6486 normal 1
+# Demerecviridae
+NC_005859|NC_047882 clade #00FFC6 normal 1
+# Herelleviridae_1
+NC_005880|NC_030925 clade #874050 normal 1
+# Aliceevansviridae_1
+NC_000871|NC_047853 clade #5a9cff normal 1
+# Peduoviridae_1
+NC_001317|NC_055729 clade #487e94 normal 1
+# Ackermannviridae
+NC_013693|NC_055841 clade #5C8984 normal 1
+# Kyanoviridae
+NC_006820|NC_070965 clade #FF7F3E normal 1
+# Aliceevansviridae_2
+NC_071062|NC_012753 clade #3385ff normal 1
+# Casjensviridae
+NC_029106|NC_020853 clade #e0be36 normal 1
+# Chimalliviridae
+NC_004629|NC_041911 clade #00ff00 normal 1
+# Autographiviridae_2
+NC_003390|NC_048030.1 clade #3a5e23 normal 1
+# Vilmaviridae
+NC_008206|NC_048028 clade #4ec48e normal 1
+# Grimontviridae
+NC_070988|NC_070978 clade #cf90d3 normal 1
+# Suoliviridae
+NC_055889|NC_067209 clade #F28729 normal 1
+# Rountreeviridae_1
+NC_001825|NC_070880 clade #00007d normal 1
+# Stanwilliamsviridae
+NC_070781|NC_042105 clade #7d571f normal 1
+# Mesyanzhinovviridae_1
+NC_006938|NC_041958 clade #994c79 normal 1
+# Intestiviridae
+NC_062778|NC_062780 clade #1E90FF normal 1
+# Peduoviridae_2
+NC_001697|NC_049460 clade #407083 normal 1
+# Salasmaviridae_1
+NC_001423|NC_049970 clade #ff5a5a normal 1
+# Rountreeviridae_2
+NC_049931|NC_071002 clade #00006f normal 1
+# Steigviridae
+NC_055882|NC_021806 clade #9BEC00 normal 1
+# Salasmaviridae_2
+NC_055908|NC_055905 clade #ff3333 normal 1
+# Chaseviridae
+NC_025459|NC_047978 clade #FF0000 normal 1
+# Orlajensenviridae
+NC_052937|NC_052941 clade #D0BFFF normal 1
+# Herelleviridae_2
+NC_006565|NC_048753 clade #783947 normal 1
+# Guelinviridae
+NC_048738|NC_048707 clade #64ccfc normal 1
+# Hafunaviridae
+NC_004927|NC_062760 clade #74512D normal 1
+# Zierdtviridae
+NC_009816|NC_055807 clade #940000 normal 1
+# Duneviridae
+NC_048834|NC_062750 clade #B19470 normal 1
+# Saffermanviridae
+NC_024358|NC_008367 clade #ff00ff normal 1
+# Zobellviridae_1
+NC_007808|NC_019540 clade #882c2c normal 1
+# Zobellviridae_2
+NC_002519|NC_019420 clade #792727 normal 1
+# Herelleviridae_3
+NC_011421|NC_028983 clade #69323e normal 1
+# Vertoviridae
+NC_054953|NC_052650 clade #2fce73 normal 1
+# Anaerodiviridae
+NC_062738|NC_019912 clade #0080ff normal 1
+# Haloferuviridae
+NC_062762|NC_062739 clade #EBEF95 normal 1
+# Assiduviridae
+NC_062753|NC_021799 clade #fface4 normal 1
+# Winoviridae
+NC_048829|NC_062754 clade #FF449F normal 1
+# Druskaviridae
+NC_021328|NC_021330 clade #AEC3AE normal 1
+# Verdandiviridae
+NC_074644|NC_074645 clade #b39c4d normal 1
+# Mesyanzhinovviridae_2
+NC_002515|NC_052964 clade #88436b normal 1

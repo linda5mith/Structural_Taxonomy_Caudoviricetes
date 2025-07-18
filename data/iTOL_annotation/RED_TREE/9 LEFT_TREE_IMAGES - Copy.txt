@@ -1,0 +1,124 @@
+DATASET_IMAGE
+#In image datasets, each ID is associated to an image file, which can be displayed directly on the node branch, or outside the tree
+#lines starting with a hash are comments and ignored during parsing
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,Left tree phage images
+
+#dataset color (can be changed later)
+COLOR,#0A5EB0
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap. Used only for images which are displayed on the outside
+MARGIN,0
+
+#applies to external images only (displayed outside the tree); if set,images associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+SHOW_INTERNAL,0
+
+#Rotate all images by the specified angle
+IMAGE_ROTATION,270
+
+#Shift all images vertically by the specified pixel value
+IMAGE_SHIFT_V,0
+
+#Shift all images horizontally by the specified pixel value
+IMAGE_SHIFT_H,0
+
+#size factor for all images;  values from 0 to 1 will decrease the size, values above 1 will increase it; note that each individual image can have a separate size factor
+SIZE_FACTOR,0.2
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+#the following fields are possible for each node:
+#ID,position,size_factor,rotation,horizontal_shift,vertical_shift,image_url
+
+#position defines the position of the image on the tree:
+#  -1 = external label
+#  a number between 0 and 1 = internal image positioned at the specified value along the node branch (for example, position 0 is exactly at the start of node branch, position 0.5 is in the middle, and position 1 is at the end)
+
+#horizontal_shift is a pixel value; can be used to shift the image position left or right. By default, image's top left corner is aligned to the node position
+#vertical_shift is a pixel value; can be used to shift the image position below or above the node
+#image_url is a full URL pointing to the image, and should be available to your browser when the tree is displayed (ie. it is not accessed by iTOL directly, it can be an internal server only visible to your browser).
+
+DATA
+#Examples
+#example 3 below (for ID 2190) is a dynamically generated SVG image
+
+#HSV1 outgroup
+NC_001806,-1,1,0,-200,0,https://imgur.com/xvscpil.png
+
+#Bacillus phage phi29,https://i.imgur.com/84HtROr.jpeg
+NC_011048,-1,1,0,-355,-35,https://i.imgur.com/IZJGbDE.png
+
+#Escherichia_phage_N4,https://i.imgur.com/asMB1VN.png
+NC_008720,-1,1,0,-185,-58,https://imgur.com/MeQj1AD.png
+#https://imgur.com/V760S8B.png
+
+#crass001
+NC_049977,-1,1,0,-175,-105,https://imgur.com/57kevGD.png
+#https://imgur.com/DG7HoTb.png
+#https://imgur.com/sRjaRIv.png
+
+#Salmonella phage P22
+NC_002371,-1,1,0,-245,-125,https://imgur.com/at4Rsal.png
+#https://imgur.com/bIpjENw.png
+
+#phi_24B https://imgur.com/dH9FqVT.png
+NC_027984,-1,1,0,-195,-85,https://imgur.com/0XrXMku.png
+#https://imgur.com/dDs3AB9.png
+
+#NC_004775_Salmonella_phage_Epsilon15
+#NC_004775,-1,1,0,-190,-130,https://imgur.com/8a6aISh.png
+#https://i.imgur.com/7tLChcs.png
+
+# Escherichia phage vB_EcoP_SU10
+NC_027395,-1,1,0,-60,-60,https://imgur.com/rN6soI0.png
+
+#Escherichia phage K1E
+NC_007637,-1,1,0,-369,-128,https://imgur.com/HSeYdJg.png
+#https://imgur.com/UotNhlU.png
+
+#Shigella phage_Buco,HRP29,,MK562503,NC_048174
+NC_048174,-1,1,0,-137,-192,https://i.imgur.com/hA4I0Ju.png
+
+#NC_007061_Staphylococcus_phage_29
+NC_028859,-1,1,0,-160,93,https://i.imgur.com/qPM6ryJ.png
+
+#HFT_V1 NC_062739
+NC_062739,-1,1,0,-70,140,https://imgur.com/rSf1ZCm.png
+
+#T4
+NC_000866,-1,1,0,55,175,https://imgur.com/eCa6NF4.png
+#https://imgur.com/FvRS0Eq.png
+#https://imgur.com/won6ZO3.png
+
+#########################################################
+
+
+#Salmonella phage P22,https://i.imgur.com/3vAs3tB.png,https://imgur.com/URLU5ya.png
+#NC_002371,-1,1,0,0,0,https://imgur.com/bIpjENw.png
+
+#phi_24B https://imgur.com/dH9FqVT.png
+#NC_027984,-1,1,0,0,0,https://imgur.com/dDs3AB9.png
+
+
+
+
+

@@ -1,0 +1,651 @@
+TREE_COLORS
+    SEPARATOR SPACE
+    SHOW_LEGEND 1
+    LEGEND_TITLE Family Clade Colors
+    DATA
+# Bolasviridae
+NC_001629|NC_029118 clade #602441 normal 1
+# Kestrosviridae
+NC_048179|NC_041908 clade #aa8297 normal 1
+# Sarissaviridae
+NC_054989|NC_048094 clade #84E0CC normal 1
+# Axehammerviridae
+NC_019420|NC_041964 clade #b8005b normal 1
+# Gatlingviridae
+NC_071016|NC_054961 clade #80708e normal 1
+# Yataganviridae
+NC_031255|NC_031099 clade #00caaf normal 1
+# Tantoviridae
+NC_070876|NC_070932 clade #89647b normal 1
+# Boviridae
+NC_070773|NC_070772 clade #00c36b normal 1
+# Naginataviridae
+NC_048070|NC_042139 clade #4687ff normal 1
+# Ekuviridae
+NC_000924|NC_049941 clade #93d190 normal 1
+# Bombardviridae
+NC_031226|NC_070817 clade #ac3b2f normal 1
+# Qiangviridae
+NC_002656|NC_042326 clade #ff5e93 normal 1
+# Shotelviridae
+NC_005178|NC_027298 clade #d6c3eb normal 1
+# Katarviridae
+NC_041877|NC_042082 clade #e27ea3 normal 1
+# Rocinanteviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Xiphosviridae
+NC_054988|NC_049805 clade #2f5726 normal 1
+# Assegaiviridae
+NC_026590|NC_041987 clade #c6e83d normal 1
+# Uluviridae
+NC_042022|NC_023595 clade #60ff62 normal 1
+# Chakriviridae
+NC_048843|NC_048831 clade #8987bf normal 1
+# Hunga Mungaviridae
+NC_042109|NC_047851 clade #016742 normal 1
+# Sagarisviridae
+NC_048022|NC_047792 clade #679793 normal 1
+# Jitteviridae
+NC_028930|NC_009804 clade #E084C1 normal 1
+# Tekkoviridae
+NC_055745|NC_053173 clade #d6efa5 normal 1
+# Mizrakviridae
+NC_013643|NC_049812 clade #c39700 normal 1
+# Doryviridae
+NC_048848|NC_025420 clade #f7a1fd normal 1
+# Krisviridae
+NC_031231|NC_054393 clade #004b33 normal 1
+# Nagamakiviridae
+NC_048789|NC_048791 clade #cd2846 normal 1
+# Mancatcherviridae
+NC_048188|NC_048187 clade #dadfff normal 1
+# Shuang Gouviridae
+NC_047756|NC_055033 clade #4b5dc6 normal 1
+# Trisulaviridae
+NC_047757|NC_020842 clade #ff1c44 normal 1
+# Retiariusviridae
+NC_022980|NC_041976 clade #c1a5c4 normal 1
+# Pataviridae
+NC_048772|NC_048770 clade #d88e38 normal 1
+# Koraviridae
+NC_004685|NC_023712 clade #84E0D3 normal 1
+# Yumiviridae
+NC_048756|NC_048637 clade #1626ff normal 1
+# Tetsuboviridae
+NC_019512|NC_019931 clade #ff7266 normal 1
+# KauSinKeviridae
+NC_027204|NC_041929 clade #8287ff normal 1
+# Tabarzinviridae
+NC_048106|NC_055915 clade #75bc4f normal 1
+# Dahviridae
+NC_047983|NC_047909 clade #bcb6ff normal 1
+# Amentumviridae
+NC_004687|NC_054727 clade #a00072 normal 1
+# Fipunaviridae
+NC_031914|NC_041872 clade #ffa52f normal 1
+# Shinaiviridae
+NC_028763|NC_028924 clade #90d42f normal 1
+# Tamboviridae
+NC_023582|NC_024355 clade #6b05e8 normal 1
+# Tjotjoviridae
+NC_020883|NC_041918 clade #bf6026 normal 1
+# Jambokviridae
+NC_042032|NC_024138 clade #B484E0 normal 1
+# Kalashnikovviridae
+NC_048027|NC_048028 clade #d8aae8 normal 1
+# Arquusviridae
+NC_041884 clade #97a5c3 normal 1
+# Boomerangviridae
+NC_008364 clade #69b582 normal 1
+# Gauntletviridae
+NC_023744 clade #79953b normal 1
+# Catapultviridae
+NC_054392|NC_041941 clade #e452ff normal 1
+# Chakramviridae
+NC_028841|NC_028746 clade #8e6d49 normal 1
+# Chukonuviridae
+NC_015272|NC_048847 clade #4b6774 normal 1
+# Claymoreviridae
+NC_054649|NC_042037 clade #A084E0 normal 1
+# Arquebusviridae
+NC_001335|NC_042058 clade #6967af normal 1
+# Crossbowviridae
+NC_016166|NC_030915 clade #e4727e normal 1
+# Cutlassviridae
+NC_071043|NC_027341 clade #01cffd normal 1
+# Daneaxeviridae
+NC_022096|NC_048077 clade #8e8c5e normal 1
+# Daoviridae
+NC_071029|NC_071022 clade #628023 normal 1
+# Derringerviridae
+NC_005262|NC_054966 clade #b8496b normal 1
+# Dirkviridae
+NC_049465|NC_049442 clade #84BFE0 normal 1
+# Durandalviridae
+NC_002166|NC_019720 clade #B184E0 normal 1
+# Dynamiteviridae
+NC_001416|NC_001901 clade #b1a7d4 normal 1
+# Excaliburviridae
+NC_007055|NC_055022 clade #c36690 normal 1
+# Pilumviridae
+NC_002661|NC_007047 clade #da546e normal 1
+# Falchionviridae
+NC_021063|NC_070894 clade #af8c46 normal 1
+# Falconetviridae
+NC_003050|NC_028697 clade #364426 normal 1
+# Fauchardviridae
+NC_049470|NC_022972 clade #7ecfdd normal 1
+# Flintlockviridae
+NC_054464|NC_011142 clade #9CE084 normal 1
+# Gladiusviridae
+NC_004333|NC_048751 clade #0ce8a1 normal 1
+# Glaiveviridae
+NC_071013|NC_024392 clade #e4643b normal 1
+# Glockviridae
+NC_070760|NC_048826 clade #774669 normal 1
+# Gramrviridae
+NC_031267|NC_070797 clade #a3e46e normal 1
+# Grenadeviridae
+NC_007917|NC_028764 clade #666782 normal 1
+# Gungnirviridae
+NC_054466|NC_042028 clade #8c3bff normal 1
+# Halberdviridae
+NC_070875|NC_048687 clade #1ae6fd normal 1
+# Howitzerviridae
+NC_004689|NC_048824 clade #60006e normal 1
+# Incendiarviridae
+NC_001978|NC_070828 clade #382d00 normal 1
+# Javelinviridae
+NC_004456|NC_047911 clade #c45646 normal 1
+# Karambitviridae
+NC_004112|NC_007501 clade #9e9e46 normal 1
+# Katanaviridae
+NC_070948|NC_030936 clade #00acc6 normal 1
+# Ballistaviridae
+NC_053234|NC_055804 clade #708297 normal 1
+# Kusanagiviridae
+NC_048098|NC_048140 clade #93ffba normal 1
+# Labrysviridae
+NC_048778|NC_048733 clade #daffe6 normal 1
+# Laevateinnviridae
+NC_007734|NC_048631 clade #4f6993 normal 1
+# Macheteviridae
+NC_041895|NC_031076 clade #a1c6ff normal 1
+# Mangonelviridae
+NC_025424|NC_019912 clade #8201cf normal 1
+# Masamuneviridae
+NC_002371|NC_005344 clade #727046 normal 1
+# Matchlockviridae
+NC_009799|NC_042089 clade #a76b9a normal 1
+# Mjï¿½lnirviridae
+NC_070761|NC_048176 clade #9cf7db normal 1
+# Bardicheviridae
+NC_048796|NC_041902 clade #7b525b normal 1
+# Molotovviridae
+NC_054433|NC_051725 clade #93b8b5 normal 1
+# Mortarviridae
+NC_048802|NC_041997 clade #4d33ff normal 1
+# Muramasaviridae
+NC_070933|NC_070953 clade #792d36 normal 1
+# Wakizashiviridae
+NC_071003|NC_070949 clade #c8fff9 normal 1
+# Nerfviridae
+NC_071006|NC_071014 clade #009789 normal 1
+# Nightshadeviridae
+NC_010811|NC_049849 clade #464800 normal 1
+# Oblivionviridae
+NC_041925|NC_047786 clade #5e3f28 normal 1
+# Onagerviridae
+NC_017981|NC_070774 clade #59578a normal 1
+# Pepperboxviridae
+NC_004775|NC_047958 clade #84DAE0 normal 1
+# Pugioviridae
+NC_017976|NC_048667 clade #856de1 normal 1
+# Bayonetteviridae
+NC_051739|NC_031243 clade #bfd47c normal 1
+# Poniardviridae
+NC_042349|NC_042352 clade #9733df normal 1
+# Parazoniumviridae
+NC_070935|NC_071004 clade #0774d8 normal 1
+# Rhomphaiaviridae
+NC_048019|NC_031247 clade #ae6dff normal 1
+# Ripwingviridae
+NC_048068|NC_047973 clade #00af89 normal 1
+# Trojanviridae
+NC_070838|NC_041961 clade #337c3d normal 1
+# Scorpionviridae
+NC_005345|NC_028952 clade #85a301 normal 1
+# Scytheviridae
+NC_056724|NC_028830 clade #ffe8af normal 1
+# Tabarviridae
+NC_008376|NC_055037 clade #1859ff normal 1
+# Shrapnelviridae
+NC_023859|NC_042001 clade #fd03ca normal 1
+# Nagantviridae
+NC_013698|NC_023549 clade #4d230c normal 1
+# Stilettoviridae
+NC_007051|NC_070727 clade #84E0B0 normal 1
+# Tomahawkviridae
+NC_029094|NC_015157 clade #891323 normal 1
+# Trebuchetviridae
+NC_041887|NC_042040 clade #a8001f normal 1
+# ZweihÃ¤nderviridae
+NC_048101|NC_048139 clade #69e680 normal 1
+# Estocviridae
+NC_006557|NC_047912 clade #54621f normal 1
+# Tepoztopilliviridae
+NC_048651|NC_048701 clade #4b526b normal 1
+# Macuahuitlviridae
+NC_005357|NC_005887 clade #c14100 normal 1
+# Urumiviridae
+NC_030942|NC_031936 clade #ff4600 normal 1
+# Blunderbussviridae
+NC_041951|NC_031224 clade #00d856 normal 1
+# Ranseurviridae
+NC_049340|NC_049383 clade #2f5282 normal 1
+# Thunderstickviridae
+NC_070759|NC_055026 clade #edb8b8 normal 1
+# Arberviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Yariviridae
+NC_031004|NC_026597 clade #00d6d4 normal 1
+# Runguviridae
+NC_054660|NC_027371 clade #ffa079 normal 1
+# Mambeleviridae
+NC_001835|NC_055050 clade #c16e72 normal 1
+# Kpingaviridae
+NC_005282|NC_048080 clade #c879dd normal 1
+# Sengeseviridae
+NC_000935|NC_048178 clade #4b6449 normal 1
+# Scutumviridae
+NC_006936|NC_028911 clade #9c3190 normal 1
+# Ackermannviridae
+NC_013693|NC_041881 clade #016A70 normal 1
+# Aggregaviridae
+NC_062748 clade #3A0519 normal 1
+# Aliceevansviridae
+NC_000871|NC_070901 clade #3385ff normal 1
+# Aoguangviridae
+OR863078|ON649702 clade #0065F8 normal 1
+# Haloferuviridae
+NC_021329|NC_062739 clade #EBEF95 normal 1
+# Shortaselviridae
+ON649701|NC_021471 clade #00ced1 normal 1
+# Suolaviridae
+NC_062761|PP497040 clade #97ddd4 normal 1
+# Haloferuviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Aoguangviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Sanchoviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Arenbergviridae
+NC_019401|NC_042013 clade #5e3a80 normal 1
+# Assiduviridae
+NC_062753|NC_021802 clade #fface4 normal 1
+# Autographiviridae
+NC_003390|NC_047700 clade #8c54b1 normal 1
+# Autoscriptoviridae
+NC_005045|NC_048029 clade #283618 normal 1
+# Autotranscriptaviridae
+NC_001271|NC_048131 clade #ff7ed1 normal 1
+# Casjensviridae
+NC_005091|NC_052977 clade #e0be36 normal 1
+# Chimalliviridae_1
+NC_004629|NC_048182 clade #5D8736 normal 1
+# Chimalliviridae_2
+NC_023557|NC_042098 clade #547a31 normal 1
+# Demerecviridae
+NC_005859|NC_047950 clade #00FFC6 normal 1
+# Druskaviridae
+NC_019515|NC_055035 clade #AEC3AE normal 1
+# Duneviridae
+NC_062749|NC_048834 clade #B19470 normal 1
+# Ekchuahviridae
+OP880252|OP413838 clade #f781bf normal 1
+# Tondraviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Forsetiviridae
+NC_062746|NC_062745 clade #393E46 normal 1
+# Fredfastierviridae
+NC_055711|NC_042020 clade #377eb8 normal 1
+# Graaviviridae
+NC_008695|NC_021537 clade #9467bd normal 1
+# Mastikaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Grimontviridae
+NC_010324|NC_048664 clade #cf90d3 normal 1
+# Guelinviridae
+NC_048707|NC_048661 clade #64ccfc normal 1
+# Hafunaviridae_1
+NC_062760|NC_062759 clade #0065F8 normal 1
+# Hafunaviridae_2
+NC_004927|NC_062740 clade #005bdf normal 1
+# Herelleviridae_1
+NC_005880|NC_028944 clade #802438 normal 1
+# Herelleviridae_2
+NC_048752|NC_029058 clade #732032 normal 1
+# Kyanoviridae
+NC_055719|NC_070965 clade #FF7F3E normal 1
+# Mesyanzhinovviridae_1
+NC_006938|NC_052965 clade #FEBA17 normal 1
+# Mesyanzhinovviridae_2
+NC_007024|NC_041958 clade #e5a715 normal 1
+# Molycolviridae
+NC_062752|NC_062751 clade #03346E normal 1
+# Orlajensenviridae
+NC_052940|NC_028692 clade #D0BFFF normal 1
+# Pachyviridae_1
+NC_062744|NC_021803 clade #9edae5 normal 1
+# Pachyviridae_2
+NC_006552|NC_062747 clade #8ec4ce normal 1
+# Peduoviridae
+NC_001317|NC_009542 clade #407083 normal 1
+# Pigerviridae
+BK063677|NC_071008 clade #948979 normal 1
+# Pootjesviridae
+NC_070890|NC_028676 clade #DC0083 normal 1
+# Pungoviridae
+NC_042099|NC_074642 clade #ff4bed normal 1
+# Rountreeviridae_1
+NC_001423|NC_048739 clade #00006f normal 1
+# Saffermanviridae
+NC_024358|NC_022751 clade #1F7D53 normal 1
+# Sissiviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Schitoviridae_1
+NC_048003|NC_055823 clade #da95ff normal 1
+# Schitoviridae_4
+NC_048121|NC_048125 clade #972a00 normal 1
+# Straboviridae
+NC_000866|NC_028829 clade #8a2be2 normal 1
+# Vertoviridae
+NC_052650|NC_054953 clade #2fce73 normal 1
+# Vilmaviridae_2
+NC_053516|NC_008206 clade #009f3a normal 1
+# Winoviridae
+NC_021790|NC_048830 clade #FF449F normal 1
+# Zobellviridae_1
+NC_004466|NC_048630 clade #901E3E normal 1
+# Zobellviridae_2
+NC_003907|NC_015158 clade #821b38 normal 1
+# Wangshuviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Victoriapeakviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Smithwessonviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Suoliviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Ditsö̀viridae
+INVALID_MRCA clade #db05b1 normal 1
+# Awohaliviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Boinayelviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Phobetorviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Surtviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Ahraviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Buruviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Saonviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Teberdaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Kráľomocviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Zarionviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Ortheliaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Isagelviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Viriatoviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Koyopa'viridae
+INVALID_MRCA clade #db05b1 normal 1
+# Cordeliaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Eigerviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Levantesviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Skulduggeryviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Gridrviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Hativiridae
+INVALID_MRCA clade #db05b1 normal 1
+# Naronviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Makombéviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Hallaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Sigsauerviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Dostoevskyviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Umbäässaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Rowlingviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Ganjaviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Asyeviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Wadirumviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Leteviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Beliviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Aoedeviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Tarvosviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Lightbulbviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Methoneviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Fenrirviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Arbalestviridae
+NC_051647|NC_051721 clade #018700 normal 1
+# Khandaviridae
+NC_003291|NC_024387 clade #dfbad4 normal 1
+# Kilijviridae
+NC_020079|NC_052663 clade #6b004f normal 1
+# Bo-Shurikenviridae
+NC_031058|NC_071017 clade #4b8ea5 normal 1
+# Kamaviridae
+NC_020477|NC_022766 clade #380000 normal 1
+# Tepoztliviridae
+NC_030932|NC_054435 clade #5e1123 normal 1
+# Onoviridae
+NC_048040|NC_048141 clade #830075 normal 1
+# Sodegaramiviridae
+NC_048706|NC_048854 clade #c8e6f2 normal 1
+# Bowieviridae
+NC_017974|NC_025830 clade #799c7e normal 1
+# Hwandoviridae
+NC_047861|NC_019930 clade #f2dd00 normal 1
+# Kakuteviridae
+NC_054985 clade #bde6bf normal 1
+# Cannonballviridae
+NC_002321|NC_026016 clade #005659 normal 1
+# Culverinviridae
+NC_006940|NC_021317 clade #cd85bc normal 1
+# Atlatlviridae
+NC_003387|NC_051596 clade #79463b normal 1
+# Jambiyaviridae
+NC_022767|NC_070841 clade #bf03b8 normal 1
+# Kalisviridae
+NC_047739|NC_048104 clade #008e64 normal 1
+# Kamikazeviridae
+NC_000929|NC_042135 clade #E09684 normal 1
+# Khopeshviridae
+NC_019406|NC_048045 clade #84E0C8 normal 1
+# Kukriviridae
+NC_019507|NC_042112 clade #d6a3b5 normal 1
+# Lassoviridae
+NC_047976|NC_047987 clade #03c600 normal 1
+# Bazookaviridae
+NC_004684|NC_023711 clade #3fa316 normal 1
+# Voulgeviridae
+NC_048640|NC_048762 clade #9e90af normal 1
+# Iklwaviridae
+NC_008202|NC_054446 clade #ff803d normal 1
+# Makriggaviridae
+NC_031048|NC_054148 clade #00eb01 normal 1
+# Autosignataviridae
+NC_004831|NC_047802 clade #0a9396 normal 1
+# Chaseviridae
+NC_047978|NC_025459 clade #FF0000 normal 1
+# Drexlerviridae
+NC_048150|NC_029071 clade #83781b normal 1
+# Herelleviridae_3
+NC_047853|NC_048087 clade #681d2d normal 1
+# Herelleviridae_4
+NC_025423|NC_022761 clade #5d1a29 normal 1
+# Intestiviridae
+NC_062769|NC_062779 clade #1E90FF normal 1
+# Lakviridae
+OR769223|OR769219 clade #ffbb78 normal 1
+# Rountreeviridae_2
+NC_049930|NC_071002 clade #000064 normal 1
+# Salasmaviridae
+NC_055905|NC_021336 clade #ff3333 normal 1
+# Schitoviridae_2
+NC_012696|NC_020862 clade #5d363b normal 1
+# Schitoviridae_3
+NC_015933|NC_070870 clade #4400c4 normal 1
+# Stanwilliamsviridae
+NC_070785|NC_070782 clade #a05c17 normal 1
+# Steigviridae
+NC_021806|NC_055878 clade #9BEC00 normal 1
+# Suoliviridae
+NC_055875|NC_055902 clade #FF3F33 normal 1
+# Vilmaviridae_1
+NC_060134|NC_028843 clade #00b140 normal 1
+# Zierdtviridae_1
+NC_009816|NC_042085 clade #940000 normal 1
+# Zierdtviridae_2
+NC_055788|NC_028653 clade #850000 normal 1
+# Zobellviridae_3
+NC_002519|NC_048671 clade #751832 normal 1
+# Andrewesviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Guarnerosviridae
+INVALID_MRCA clade #db05b1 normal 1
+# Bradleyviridae_2
+INVALID_MRCA clade #db05b1 normal 1
+# Singleton family: Ahraviridae
+NC_047910 branch #d38c8e normal 1
+# Singleton family: Andrewesviridae
+NC_055834 branch #33574b normal 1
+# Singleton family: Aoedeviridae
+NC_023571 branch #eb0077 normal 1
+# Singleton family: Aoguangviridae
+ON649700 branch #0065F8 normal 1
+# Singleton family: Arberviridae
+NC_003309 branch #e9a3d4 normal 1
+# Singleton family: Asyeviridae
+NC_048892 branch #57502a normal 1
+# Singleton family: Awohaliviridae
+NC_062756 branch #84BAE0 normal 1
+# Singleton family: Beliviridae
+NC_074645 branch #00749c normal 1
+# Singleton family: Boinayelviridae
+BK063679 branch #00fdcf normal 1
+# Singleton family: Bradleyviridae_2
+NC_052964 branch #db05b1 normal 1
+# Singleton family: Buruviridae
+NC_027125 branch #75573d normal 1
+# Singleton family: Cordeliaviridae
+NC_004902 branch #90a1e9 normal 1
+# Singleton family: Ditsö̀viridae
+NC_028818 branch #7cb8d3 normal 1
+# Singleton family: Dostoevskyviridae
+NC_048193 branch #d1b65b normal 1
+# Singleton family: Eigerviridae
+NC_001884 branch #9e4b00 normal 1
+# Singleton family: Fenrirviridae
+NC_021340 branch #75ae9a normal 1
+# Singleton family: Ganjaviridae
+NC_018088 branch #790000 normal 1
+# Singleton family: Gridrviridae
+NC_029024 branch #677eca normal 1
+# Singleton family: Guarnerosviridae
+NC_070931 branch #995444 normal 1
+# Singleton family: Hallaviridae
+NC_041927 branch #645474 normal 1
+# Singleton family: Haloferuviridae
+NC_062757 branch #EBEF95 normal 1
+# Singleton family: Hativiridae
+NC_070829 branch #e2b391 normal 1
+# Singleton family: Isagelviridae
+NC_052968 branch #ba03fd normal 1
+# Singleton family: Koyopa'viridae
+NC_002484 branch #cd7e57 normal 1
+# Singleton family: Kráľomocviridae
+NC_023566 branch #a13b72 normal 1
+# Singleton family: Leteviridae
+NC_041868 branch #bc7c00 normal 1
+# Singleton family: Levantesviridae
+NC_047905 branch #fdbfff normal 1
+# Singleton family: Lightbulbviridae
+NC_021788 branch #6db3ff normal 1
+# Singleton family: Makombéviridae
+NC_027120 branch #6264fd normal 1
+# Singleton family: Mastikaviridae
+NC_018271 branch #7c5900 normal 1
+# Singleton family: Methoneviridae
+NC_019541 branch #6ecfa7 normal 1
+# Singleton family: Naronviridae
+NC_009603 branch #89003d normal 1
+# Singleton family: Ortheliaviridae
+NC_048784 branch #386e64 normal 1
+# Singleton family: Phobetorviridae
+NC_074644 branch #876eb1 normal 1
+# Singleton family: Rocinanteviridae
+NC_019713 branch #bc93d1 normal 1
+# Singleton family: Rowlingviridae
+NC_070881 branch #e6d67c normal 1
+# Singleton family: Sanchoviridae
+ON649699 branch #774401 normal 1
+# Singleton family: Saonviridae
+NC_019519 branch #802690 normal 1
+# Singleton family: Sigsauerviridae
+NC_019446 branch #802f59 normal 1
+# Singleton family: Sissiviridae
+NC_008367 branch #db6d01 normal 1
+# Singleton family: Skulduggeryviridae
+NC_070827 branch #213400 normal 1
+# Singleton family: Smithwessonviridae
+NC_070978 branch #b8b68a normal 1
+# Singleton family: Suoliviridae
+NC_055706 branch #FF3F33 normal 1
+# Singleton family: Surtviridae
+NC_074641 branch #a15d6e normal 1
+# Singleton family: Tarvosviridae
+NC_042128 branch #8e7900 normal 1
+# Singleton family: Teberdaviridae
+NC_041921 branch #e6af00 normal 1
+# Singleton family: Tondraviridae
+NC_028805 branch #573b00 normal 1
+# Singleton family: Umbäässaviridae
+NC_070775 branch #4fb5af normal 1
+# Singleton family: Victoriapeakviridae
+NC_070966 branch #e1cd9c normal 1
+# Singleton family: Viriatoviridae
+NC_042049 branch #60345d normal 1
+# Singleton family: Wadirumviridae
+NC_047977 branch #a350a8 normal 1
+# Singleton family: Wangshuviridae
+NC_023719 branch #216701 normal 1
+# Singleton family: Zarionviridae
+NC_031122 branch #849CE0 normal 1

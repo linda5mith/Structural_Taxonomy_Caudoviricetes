@@ -1,0 +1,575 @@
+TREE_COLORS
+#use this template to define branch colors and styles, colored ranges and label colors/font styles/backgrounds
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+#SEPARATOR TAB
+SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#First 3 fields define the node, type and color
+#Possible types are:
+#'range': defines a colored range (colored background for labels/clade)
+#'clade': defines color/style for all branches in a clade
+#'branch': defines color/style for a single branch
+#'label': defines font color/style for the leaf label
+#'label_background': defines the leaf label background color
+
+#The following additional fields are required:
+#for 'range', field 4 defines the colored range label (used in the legend)
+
+#The following additional fields are optional:
+#for 'label', field 4 defines the font style ('normal',''bold', 'italic' or 'bold-italic') and field 5 defines the numeric scale factor for the font size (eg. with value 2, font size for that label will be 2x the standard size)
+#for 'clade' and 'branch', field 4 defines the branch style ('normal' or 'dashed') and field 5 defines the branch width scale factor (eg. with value 0.5, branch width for that clade will be 0.5 the standard width)
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID TYPE COLOR LABEL_OR_STYLE SIZE_FACTOR
+
+#a single internal branch colored green, dashed and 5 times the normal width
+
+#Aliceevansviridae
+NC_070705|NC_012753 clade #3385ff normal 1
+
+#Orlajensenviridae
+NC_052941|NC_052933 clade #D0BFFF normal 1
+
+# Duneviridae
+NC_031926|NC_062749 clade #B19470 normal 1
+
+#Helgolandviridae
+NC_062750 branch #E6521F normal 1
+
+# Graaviviridae
+NC_008695|NC_021537 clade #9467bd normal 1
+
+# Saparoviridae
+NC_021340|NC_021319 clade #d08b0c normal 1
+
+# Yangangviridae
+ON649699 branch #0c79f9 normal 1
+ON649701 branch #0c79f9 normal 1
+
+# Shortaselviridae
+NC_021471 branch #00ced1 normal 1
+
+# Apasviridae
+OR863078 branch #F97A00 normal 1
+
+# Aoguangviridae
+ON649702 branch #0065F8 normal 1
+
+# Yangangviridae
+ON649700 branch #84AE92 normal 1
+
+# Haloferuviridae
+NC_021329|NC_062739 clade #EBEF95 normal 1
+
+# Pyrstoviridae
+NC_062757 branch #FF2DF1 normal 1
+
+# Suoliviridae
+NC_062761 branch #FF3F33 normal 1
+
+# Satyavativiridae
+PP497040 branch #99ff00 normal 1
+
+# Zierdtviridae
+NC_042086|NC_055770 clade #940000 normal 1
+
+# Straboviridae
+NC_027353|NC_055721 clade #8a2be2 normal 1
+# Straboviridae
+NC_019909|NC_031020 clade #8a2be2 normal 1
+# Straboviridae
+NC_055720|NC_028829 clade #8a2be2 normal 1
+
+# Kyanoviridae
+NC_047718|NC_070965 clade #FF7F3E normal 1
+# new recruits inside Kyanoviridae
+#NC_015280 branch #000000 normal 1
+#NC_015284 branch #000000 normal 1
+
+# Ackermannviridae 5C8984
+NC_031128|NC_048765 clade #016A70 normal 1
+
+# Lakviridae
+OR769218|OR769222 clade #ffbb78 normal 1
+
+# Epsomviridae
+OR769223 branch #F4CE14 normal 1
+
+# Chimalliviridae A0C878 
+NC_043027 branch #5D8736 normal 1
+
+# Pootjesviridae
+NC_070886|NC_070890 clade #DC0083 normal 1  
+
+# Kleczkowskaviridae
+NC_070966 branch #2ca02c normal 1
+NC_070967 branch #2ca02c normal 1
+
+# Molycolviridae
+NC_062751 branch #03346E normal 1
+NC_062752 branch #03346E normal 1
+
+# Demerecviridae
+NC_048811|NC_047950 clade #00FFC6 normal 1
+
+# Chimalliviridae
+NC_019929|NC_042018 clade #5D8736 normal 1
+NC_048668 branch #5D8736 normal 1
+NC_048792 branch #5D8736 normal 1
+NC_048182 branch #5D8736 normal 1
+NC_023557|NC_041994 clade #5D8736 normal 1
+
+# Herelleviridae  69323e
+NC_047722|NC_047853 clade #802438 normal 1
+
+# Stanwilliamsviridae 7d571f
+NC_042012|NC_042105 clade #a05c17 normal 1
+
+# Halomagnusviridae
+NC_021328 clade #DB8DD0 normal 1
+
+# Druskaviridae
+NC_021330|NC_020158 clade #AEC3AE normal 1
+
+# Ahpuchviridae
+OP413838 clade #FFD66B normal 1
+
+# Ekchuahviridae
+OP880253|OP880252 clade #f781bf normal 1
+
+# Soleiviridae
+NC_062756 clade #EA7300 normal 1
+
+# Hafunaviridae
+NC_021320|NC_062759 clade #0065F8 normal 1
+
+# Vilmaviridae A6FF96  5D8736
+NC_015584|NC_028843 clade #00b140 normal 1
+NC_053513|NC_008206 clade #00b140 normal 1
+
+# Winoviridae
+NC_048830|NC_048829 clade #FF449F normal 1
+
+# Chaseviridae
+NC_047830|NC_025459 clade #FF0000 normal 1
+
+# Vertoviridae
+NC_052650|NC_054953 clade #2fce73 normal 1 
+
+# Peduoviridae
+NC_049386|NC_009542 clade #407083 normal 1
+
+# Winoviridae outlier
+NC_062754 clade #FF449F normal 1
+
+# Mesyanzhinovviridae 8a2be2
+NC_010116|NC_006938 clade #FEBA17 normal 1
+NC_028931|NC_052966 clade #FEBA17 normal 1
+
+# Drexlerviridae
+NC_049817|NC_048150 clade #83781b normal 1
+
+# Casjensviridae
+NC_048655|NC_052968 clade #e0be36 normal 1
+
+# Autographiviridae
+#NC_047701|NC_047700 clade #03045e normal 1
+NC_048059 clade #03045e normal 1
+NC_048060 clade #03045e normal 1
+NC_048057 clade #03045e normal 1
+NC_047961 clade #03045e normal 1
+NC_047832 clade #03045e normal 1
+NC_047831 clade #03045e normal 1
+NC_047751 clade #03045e normal 1
+NC_028702 clade #03045e normal 1
+NC_023736 clade #03045e normal 1
+NC_047982 clade #03045e normal 1
+NC_023005 clade #03045e normal 1
+NC_013651 clade #03045e normal 1
+NC_015159 clade #03045e normal 1
+NC_007149 clade #03045e normal 1
+NC_054890 clade #03045e normal 1
+NC_048201 clade #03045e normal 1
+NC_047922 clade #03045e normal 1
+NC_047874 clade #03045e normal 1
+NC_047827 clade #03045e normal 1
+NC_024362 clade #03045e normal 1
+NC_047826 clade #03045e normal 1
+NC_047747 clade #03045e normal 1
+NC_028661 clade #03045e normal 1
+NC_004665 clade #03045e normal 1
+NC_048200 clade #03045e normal 1
+NC_047981 clade #03045e normal 1
+NC_047873 clade #03045e normal 1
+NC_027292 clade #03045e normal 1
+NC_021062 clade #03045e normal 1
+NC_047997 clade #03045e normal 1
+NC_047965 clade #03045e normal 1
+NC_015264 clade #03045e normal 1
+NC_015208 clade #03045e normal 1
+NC_025431 clade #03045e normal 1
+NC_047738 clade #03045e normal 1
+NC_047704 clade #03045e normal 1
+NC_047946 clade #03045e normal 1
+NC_047888 clade #03045e normal 1
+NC_047703 clade #03045e normal 1
+NC_020482 clade #03045e normal 1
+NC_048050 clade #03045e normal 1
+NC_020483 clade #03045e normal 1
+NC_047702 clade #03045e normal 1
+NC_047705 clade #03045e normal 1
+NC_047701 clade #03045e normal 1
+NC_024329 clade #03045e normal 1
+NC_047834 clade #03045e normal 1
+NC_047741 clade #03045e normal 1
+NC_048131 clade #03045e normal 1
+NC_048130 clade #03045e normal 1
+NC_048129 clade #03045e normal 1
+NC_047700 clade #03045e normal 1
+NC_047708 clade #03045e normal 1
+NC_047711 clade #03045e normal 1
+NC_047707 clade #03045e normal 1
+NC_047706 clade #03045e normal 1
+NC_025455 clade #03045e normal 1
+NC_003390 clade #03045e normal 1
+NC_020872 clade #03045e normal 1
+NC_029031 clade #03045e normal 1
+NC_009531 clade #03045e normal 1
+NC_020867 clade #03045e normal 1
+NC_016659 clade #03045e normal 1
+NC_020835 clade #03045e normal 1
+NC_016657 clade #03045e normal 1
+NC_020878 clade #03045e normal 1
+NC_016658 clade #03045e normal 1
+NC_020874 clade #03045e normal 1
+NC_016656 clade #03045e normal 1
+NC_047709 clade #03045e normal 1
+NC_020838 clade #03045e normal 1
+NC_048026 clade #03045e normal 1
+NC_006882 clade #03045e normal 1
+NC_047710 clade #03045e normal 1
+NC_048184 clade #03045e normal 1
+NC_048171 clade #03045e normal 1
+NC_048183 clade #03045e normal 1
+
+
+# Autotranscriptaviridae
+#NC_047842|NC_048059 branch #81b29a normal 1
+NC_023548 clade #81b29a normal 1
+NC_048052 clade #81b29a normal 1
+NC_047964 clade #81b29a normal 1
+NC_047935 clade #81b29a normal 1
+NC_047934 clade #81b29a normal 1
+NC_047937 clade #81b29a normal 1
+NC_047936 clade #81b29a normal 1
+NC_023558 clade #81b29a normal 1
+NC_048161 clade #81b29a normal 1
+NC_048025 clade #81b29a normal 1
+NC_048135 clade #81b29a normal 1
+NC_048136 clade #81b29a normal 1
+NC_048071 clade #81b29a normal 1
+NC_023576 clade #81b29a normal 1
+NC_047927 clade #81b29a normal 1
+NC_047777 clade #81b29a normal 1
+NC_047808 clade #81b29a normal 1
+NC_031943 clade #81b29a normal 1
+NC_031937 clade #81b29a normal 1
+NC_007636 clade #81b29a normal 1
+NC_031123 clade #81b29a normal 1
+NC_031018 clade #81b29a normal 1
+NC_048023 clade #81b29a normal 1
+NC_024379 clade #81b29a normal 1
+NC_047829 clade #81b29a normal 1
+NC_011042 clade #81b29a normal 1
+NC_048164 clade #81b29a normal 1
+NC_047923 clade #81b29a normal 1
+NC_015271 clade #81b29a normal 1
+NC_011045 clade #81b29a normal 1
+NC_047940 clade #81b29a normal 1
+NC_047939 clade #81b29a normal 1
+NC_027387 clade #81b29a normal 1
+NC_048004 clade #81b29a normal 1
+NC_047895 clade #81b29a normal 1
+NC_001604 clade #81b29a normal 1
+NC_048163 clade #81b29a normal 1
+NC_048082 clade #81b29a normal 1
+NC_048078 clade #81b29a normal 1
+NC_048079 clade #81b29a normal 1
+NC_031114 clade #81b29a normal 1
+NC_019510 clade #81b29a normal 1
+NC_047963 clade #81b29a normal 1
+NC_047886 clade #81b29a normal 1
+NC_048002 clade #81b29a normal 1
+NC_047819 clade #81b29a normal 1
+NC_047801 clade #81b29a normal 1
+NC_047797 clade #81b29a normal 1
+NC_047867 clade #81b29a normal 1
+NC_003298 clade #81b29a normal 1
+NC_029102 clade #81b29a normal 1
+NC_028795 clade #81b29a normal 1
+NC_047844 clade #81b29a normal 1
+NC_047766 clade #81b29a normal 1
+NC_047755 clade #81b29a normal 1
+NC_028880 clade #81b29a normal 1
+NC_047843 clade #81b29a normal 1
+NC_048063 clade #81b29a normal 1
+NC_010807 clade #81b29a normal 1
+NC_025451 clade #81b29a normal 1
+NC_001271 clade #81b29a normal 1
+NC_071009 clade #81b29a normal 1
+NC_047774 clade #81b29a normal 1
+NC_031092 clade #81b29a normal 1
+NC_031066 clade #81b29a normal 1
+NC_028772 clade #81b29a normal 1
+NC_031115 clade #81b29a normal 1
+NC_011085 clade #81b29a normal 1
+NC_028655 clade #81b29a normal 1
+NC_047942 clade #81b29a normal 1
+NC_019416 clade #81b29a normal 1
+NC_047789 clade #81b29a normal 1
+NC_071037 clade #81b29a normal 1
+NC_048180 clade #81b29a normal 1
+NC_028863 clade #81b29a normal 1
+NC_023715 clade #81b29a normal 1
+NC_011038 clade #81b29a normal 1
+NC_008694 clade #81b29a normal 1
+NC_047984 clade #81b29a normal 1
+NC_048105 clade #81b29a normal 1
+NC_015249 clade #81b29a normal 1
+NC_031258 clade #81b29a normal 1
+NC_048108 clade #81b29a normal 1
+NC_028822 clade #81b29a normal 1
+NC_011534 clade #81b29a normal 1
+NC_022744 clade #81b29a normal 1
+NC_011040 clade #81b29a normal 1
+NC_048138 clade #81b29a normal 1
+NC_047761 clade #81b29a normal 1
+NC_013647 clade #81b29a normal 1
+NC_047908 clade #81b29a normal 1
+NC_047780 clade #81b29a normal 1
+NC_047782 clade #81b29a normal 1
+NC_047781 clade #81b29a normal 1
+NC_028977 clade #81b29a normal 1
+NC_048014 clade #81b29a normal 1
+NC_047773 clade #81b29a normal 1
+NC_047771 clade #81b29a normal 1
+NC_048175 clade #81b29a normal 1
+NC_028800 clade #81b29a normal 1
+NC_028688 clade #81b29a normal 1
+NC_047772 clade #81b29a normal 1
+NC_011043 clade #81b29a normal 1
+NC_047968 clade #81b29a normal 1
+NC_047799 clade #81b29a normal 1
+NC_048114 clade #81b29a normal 1
+NC_015719 clade #81b29a normal 1
+NC_047971 clade #81b29a normal 1
+NC_047798 clade #81b29a normal 1
+NC_047980 clade #81b29a normal 1
+NC_047969 clade #81b29a normal 1
+NC_047970 clade #81b29a normal 1
+NC_047842 clade #81b29a normal 1
+
+# Autoscriptoviridae
+NC_028870|NC_022917 clade #283618 normal 1 
+
+# Autoscriptoviridae
+NC_048177|NC_028679 clade #283618 normal 1
+
+# Autonotataviridae - is actually same family as Autoscriptoviridae
+#NC_019911|NC_042104 clade #7f4f24 normal 1 
+NC_048123 branch #7f4f24 normal 1
+NC_048148 branch #7f4f24 normal 1
+NC_042104 branch #7f4f24 normal 1
+NC_019454 branch #7f4f24 normal 1
+NC_047890 branch #7f4f24 normal 1
+NC_019520 branch #7f4f24 normal 1
+NC_047860 branch #7f4f24 normal 1
+NC_029092 branch #7f4f24 normal 1
+NC_031014 branch #7f4f24 normal 1
+NC_016764 branch #7f4f24 normal 1
+NC_047866 branch #7f4f24 normal 1
+NC_047865 branch #7f4f24 normal 1
+NC_047966 branch #7f4f24 normal 1
+NC_019528 branch #7f4f24 normal 1
+NC_048133 branch #7f4f24 normal 1
+NC_070758 branch #7f4f24 normal 1
+NC_047941 branch #7f4f24 normal 1
+NC_047951 branch #7f4f24 normal 1
+NC_028850 branch #7f4f24 normal 1
+NC_029070 branch #7f4f24 normal 1
+NC_020078 branch #7f4f24 normal 1
+NC_048111 branch #7f4f24 normal 1
+NC_047778 branch #7f4f24 normal 1
+NC_047805 branch #7f4f24 normal 1
+NC_019911 branch #7f4f24 normal 1
+
+NC_048029 branch #7f4f24 normal 1
+NC_021337 branch #03045e normal 1
+
+# Autoscriptoviridae
+#NC_048177|NC_042005 clade #283618 normal 1
+
+#NC_047701|NC_025431 clade #3a5e23 normal 1
+
+# Autographiviridae
+#NC_047704 clade #3a5e23 normal 1
+
+# Autotranscriptaviridae
+#NC_048129|NC_048131 clade #a65628 normal 1
+
+# Autographiviridae
+#NC_024329 clade #3a5e23 normal 1
+#NC_048184 clade #3a5e23 normal 1
+#NC_025431 clade #3a5e23 normal 1
+#NC_047710 clade #3a5e23 normal 1
+#NC_047709 clade #3a5e23 normal 1
+#NC_020878 clade #3a5e23 normal 1
+
+# Autoscriptoviridae
+#NC_047706|NC_022917 clade #4daf4a normal 1
+
+# Autonotataviridae
+#NC_041885|NC_041912 clade #984ea3 normal 1
+
+# Autographiviridae
+#NC_047768 clade #3a5e23 normal 1
+
+# Autoscriptoviridae
+#NC_023570|NC_025457 clade #4daf4a normal 1
+
+# Autonotataviridae
+#NC_019911|NC_047890 clade #984ea3 normal 1
+
+# Autoscriptoviridae
+#NC_048148|NC_021337 clade #4daf4a normal 1
+
+# Autonotataviridae
+#NC_048029 clade #984ea3 normal 1
+
+# Autosignataviridae
+NC_047769|NC_047807 clade #0a9396 normal 1
+NC_031271|NC_047802 clade #0a9396 normal 1
+
+# Zobellviridae
+NC_018280|NC_015158 clade #901E3E normal 1
+
+# Grimontviridae
+NC_019402|NC_048664 clade #cf90d3 normal 1
+NC_070978 clade #cf90d3 normal 1
+
+# Zobellviridae
+NC_027988|NC_007808 clade #901E3E normal 1
+
+# Fredfastierviridae
+NC_055711|NC_007807 clade #377eb8 normal 1
+
+# Saffermanviridae
+NC_009551|NC_008367 clade #1F7D53 normal 1
+
+# Suoliviridae
+NC_067214|NC_055706 clade #F28729 normal 1  
+
+# Steigviridae
+NC_055884|NC_021806 clade #9BEC00 normal 1
+
+# Intestiviridae
+NC_055879|NC_062774 clade #1E90FF normal 1
+
+# Crevaviridae
+NC_062780 branch #e41a1c normal 1
+NC_055886|NC_062779 clade #e41a1c normal 1
+
+# Pervagoviridae
+NC_021796 branch #16C47F normal 1
+NC_062744 branch #16C47F normal 1
+
+# Pachyviridae
+NC_021794|NC_021789 clade #9edae5 normal 1
+
+# Assiduviridae
+NC_021799|NC_062753 clade #fface4 normal 1
+
+# Aggregaviridae
+NC_062748 branch #3A0519 normal 1
+
+# Forsetiviridae
+NC_062745 branch #393E46 normal 1
+NC_062746 branch #393E46 normal 1
+
+# Schitoviridae
+#NC_054967|NC_048121 clade #5b6486 normal 1  
+NC_054967|NC_048121 clade #ADBC9F normal 1
+
+# Pigerviridae
+BK063677 clade #948979 normal 1
+
+# Rountreeviridae
+NC_031008|NC_009875 clade #00006f normal 1
+NC_024149 branch #00006f normal 1
+NC_004814 branch #00006f normal 1
+
+# Guelinviridae
+NC_048629 clade #64ccfc normal 1
+
+# Madridviridae
+NC_001825 clade #dbdb8d normal 1
+NC_042114 clade #dbdb8d normal 1
+
+# Rountreeviridae
+NC_047813|NC_070879 clade #00006f normal 1
+
+# Salasmaviridae
+NC_049965|NC_049972 clade #ff3333 normal 1
+
+# Guelinviridae
+NC_018083|NC_048661 clade #64ccfc normal 1
+
+# Rountreeviridae
+NC_049937|NC_049931 clade #00006f normal 1
+
+# Salasmaviridae
+NC_049962|NC_021336 clade #ff3333 normal 1
+
+# Verdandiviridae
+NC_074643|NC_074645 clade #A4B465 normal 1
+
+# Mesyanzhinovviridae
+NC_052964 clade #88436b normal 1
+
+# Kairosviridae
+BK063679 clade #27548A normal 1
+
+# Yanlukaviridae
+ON649698 clade #BB3E00 normal 1
+
+# Fervensviridae
+NC_074641 branch #A1D6B2 normal 1
+
+# Verdandiviridae
+#NC_074644 clade #A4B465 normal 1
+
+# Usuviridae
+PP537965 branch #9F8383 normal 1
+NC_074644 branch #9F8383 normal 1
+
+# Leisingerviridae
+NC_001902 branch #F7AD45 normal 1
+
+# Armatusviridae
+BK063678 branch #7965C1 normal 1
+
+# Anaerodiviridae
+NC_062738 branch #B771E5 normal 1
+
+
