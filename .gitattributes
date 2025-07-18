@@ -1,3 +1,5 @@
 data/protein_metadata.csv filter=lfs diff=lfs merge=lfs -text
 data/foldseek_easy_cluster/candidate_runs_RMSD_top_5_clusters.csv filter=lfs diff=lfs merge=lfs -text
-/home/administrator/phd/Structural_Taxonomy/data/foldseek_easy_cluster/test_thresholds.zip filter=lfs diff=lfs merge=lfs -text
+data/foldseek_easy_cluster/test_thresholds.zip filter=lfs diff=lfs merge=lfs -text
+data/foldseek_easy_cluster/test_thresholds.zip filter=lfs diff=lfs merge=lfs -text
+data/embeddings_annotated_expanded.csv filter=lfs diff=lfs merge=lfs -text
