@@ -1,0 +1,8 @@
+# .gitignore
+/data/models/
+/data/foldseek_easy_cluster/
+/data/foldseek_easy_search/
+/data/phylorank/
+/data/iTOL_annotation/
+/data/classifier_performance/
+/data/plots/

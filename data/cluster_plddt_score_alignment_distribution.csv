@@ -1,0 +1,33 @@
+protein_accn,function,plddt,cluster_member,source
+YP_010082820.1,hypothetical protein KMD24_gp018,50.17955292570677,cluster,MCP
+YP_010676783.1,major head protein,32.80670418896475,member,MCP
+YP_009287664.1,hypothetical protein BI061_gp26,41.06697139652272,member,MCP
+YP_009904045.1,hypothetical protein H1O16_gp112,45.399231174302265,member,MCP
+YP_010113622.1,major head protein,53.12947272727272,member,MCP
+YP_010075981.1,capsid vertex protein,59.80763658315726,member,MCP
+YP_007001622.1,major head protein,66.56133255406195,member,MCP
+YP_009852853.1,head maturation protease,73.32524701561064,member,MCP
+YP_007869817.1,major head protein,80.0566646153846,member,MCP
+YP_009042530.1,major head protein,86.81757252417472,member,MCP
+YP_009797329.1,major head protein,93.56943421052632,member,MCP
+YP_009620569.1,terminase large subunit,89.33797401879492,cluster,TerL
+YP_009015205.1,hypothetical protein CL97_gp243,47.88037403740374,member,TerL
+YP_009908975.1,terminase,54.76722479721901,member,TerL
+YP_009789373.1,terminase,57.961,member,TerL
+YP_010299423.1,terminase large subunit,63.4183600592912,member,TerL
+YP_009813448.1,terminase large subunit,68.1534279088801,member,TerL
+YP_010096277.1,terminase large subunit,73.245931202931,member,TerL
+YP_009612292.1,hypothetical protein FDI40_gp627,78.32449508026929,member,TerL
+YP_009279565.1,terminase large subunit,83.40323376623377,member,TerL
+YP_009840520.1,terminase large subunit,88.47998553121124,member,TerL
+YP_009197521.1,terminase large subunit,93.5557803806735,member,TerL
+YP_008058468.1,tail tube protein,73.57534952170714,cluster,Tail_tube
+YP_009821095.1,putative virion structural protein,33.88811117936118,member,Tail_tube
+YP_010082830.1,hypothetical protein KMD24_gp028,46.92575889615105,member,Tail_tube
+YP_009639637.1,hypothetical protein FGG69_gp25,54.10628272251309,member,Tail_tube
+YP_010074917.1,tail tube,61.04206699346405,member,Tail_tube
+YP_009599698.1,tail tube protein,67.82451837140019,member,Tail_tube
+YP_002128481.1,hypothetical protein phiPLPE_47,74.60421616358325,member,Tail_tube
+YP_010100913.1,minor tail protein,81.40416666666667,member,Tail_tube
+YP_010098739.1,major tail protein,88.17730285714288,member,Tail_tube
+YP_007010618.1,hypothetical protein BPABA456_00370,94.96763427109974,member,Tail_tube
