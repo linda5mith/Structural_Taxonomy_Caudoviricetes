@@ -6,7 +6,7 @@ library(scales)
 ##################################
 
 # pLDDT distribution plots
-plddts <- read.csv('C:/Users/crtuser/Documents/CrAss PHD/Crassvirales_ICTV_proposal_2024/Structural_Taxonomy/data/pLDDTs_proteins.csv')
+plddts <- read.csv('C:/Users/crtuser/Structural_Taxonomy/data/pLDDTs_proteins.csv')
 
 plddts$protein <- gsub(".pdb$", "", plddts$protein)  # Remove '.pdb'
 
@@ -64,7 +64,7 @@ final_plot <- ggdraw(combined_plots) +
 
 final_plot
 
-ggsave("C:/Users/crtuser/Documents/CrAss PHD/Crassvirales_ICTV_proposal_2024/Structural_Taxonomy/plots/pdbs_macro_metadata.png", final_plot, width = 10, height = 5, dpi = 300)
+ggsave("../plots/pdbs_macro_metadata.png", final_plot, width = 10, height = 5, dpi = 300)
 
 
 

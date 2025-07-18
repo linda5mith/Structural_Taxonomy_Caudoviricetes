@@ -5,7 +5,7 @@ library(viridis)
 library(dplyr)
 
 # Read the data
-setwd('C:/Users/crtuser/Documents/CrAss PHD/Crassvirales_ICTV_proposal_2024/Structural_Taxonomy/data')
+setwd('C:/Users/crtuser/Documents/Structural_Taxonomy/data')
 
 pairwise_df <- read.csv('4083_%_shared_proteins.csv', row.names = 1)
 RED_taxonomy <- read.csv('RED_taxonomy.csv',encoding = "UTF-8")
